@@ -3,7 +3,7 @@
 <br><br>
 
 <!-- project philosophy -->
-<img src="./readme/title2.svg"/>
+<img src="./readme/Readme Template Assets/title2.svg"/>
 
 > A mobile app for ordering coffee on-the-go, making it easier for coffee lovers to get their favorite beverages without waiting in line.
 >
