@@ -9,8 +9,8 @@
 
 
 ### User Stories
--players/managers can check game performance
--players/managers can get detailed feedback from AI about the game
--Based on performance AI will give me some sets of training for improvement.
+- players/managers can check game performance
+- players/managers can get detailed feedback from AI about the game
+- Based on performance AI will give me some sets of training for improvement.
 
 <br><br>
