@@ -1,3 +1,6 @@
 # [submodule "frontend"]
 # 	path = frontend
 # 	url = https://github.com/gabykassab00/frontend
+[submodule "my-django"]
+	path = my-django
+	url = https://github.com/gabykassab00/django
