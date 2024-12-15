@@ -1,6 +1,7 @@
-# [submodule "frontend"]
-# 	path = frontend
-# 	url = https://github.com/gabykassab00/frontend
+
 [submodule "my-django"]
 	path = my-django
 	url = https://github.com/gabykassab00/django
+[submodule "frontend-next"]
+	path = frontend-next
+	url = https://github.com/gabykassab00/next.js
