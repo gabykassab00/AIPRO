@@ -19,9 +19,9 @@
 
 ###  AIPRO is built using the following technologies:
 
-- This project uses the Next.js framework for the frontend. Next.js is a React-based web development framework that allows for server-side rendering, static site generation, and optimized performance for web applications.
-- The backend is powered by Django, a high-level Python web framework known for its robustness and scalability. Django is used to handle API requests, manage user authentication, and orchestrate the AI-powered analysis workflows.
-- For persistent storage, the project uses a MySQL database. MySQL is a reliable and efficient relational database system that stores user data, gameplay analysis results, and training recommendations.
+- This project uses the [Next.js](https://nextjs.org/) framework for the frontend. Next.js is a React-based web development framework that allows for server-side rendering, static site generation, and optimized performance for web applications.
+- The backend is powered by [Django](https://www.djangoproject.com/), a high-level Python web framework known for its robustness and scalability. Django is used to handle API requests, manage user authentication, and orchestrate the AI-powered analysis workflows.
+- For persistent storage, the project uses a [MySQL](https://www.mysql.com/) database. MySQL is a reliable and efficient relational database system that stores user data, gameplay analysis results, and training recommendations.
 - The AI-driven analysis leverages advanced machine learning models to provide players and coaches with actionable insights, detailed game performance feedback, and personalized training recommendations for improvement.
 - The platform follows modern design principles, ensuring an intuitive and user-friendly experience for both players and coaches.
 
