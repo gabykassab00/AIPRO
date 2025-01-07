@@ -41,3 +41,12 @@
 | ![Landing](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) |
 
 <br><br>
+<!-- Database Design -->
+<img src="./readme/Readme Template Assets/title5.svg"/>
+
+###  Architecting Data Excellence: Innovative Database Design Strategies:
+
+- <img src="./readme/public/db.png">
+
+
+<br><br>
