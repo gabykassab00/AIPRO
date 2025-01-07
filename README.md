@@ -26,3 +26,18 @@
 - The platform follows modern design principles, ensuring an intuitive and user-friendly experience for both players and coaches.
 
 <br><br>
+<!-- UI UX -->
+<img src="./readme/Readme Template Assets//title4.svg"/>
+
+
+> We designed the football analysis platform using wireframes and mockups, iterating on the design until we achieved an intuitive layout that ensures seamless navigation and a user-friendly experience for players and coaches.
+
+- Project Figma design [figma](https://www.figma.com/design/ZAy6TOinYUcO0aj3j9E5T0/Untitled?node-id=0-1&p=f&t=xAyXD9uoC30yY66z-0)
+
+
+### Mockups
+| Home screen  | Menu Screen | Order Screen |
+| ---| ---| ---|
+| ![Landing](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) |
+
+<br><br>
