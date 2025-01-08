@@ -9,9 +9,21 @@
 
 
 ### User Stories
-- players/managers can check game performance
-- players/managers can get detailed feedback from AI about the game
-- Based on performance AI will give me some sets of training for improvement.
+Players:
+
+- Players can check individual player performance.
+
+- Players can receive detailed feedback from AI about the game.
+
+- Based on performance, AI will provide personalized training sets for improvement.
+
+Coaches:
+
+- Coaches can check overall Team performance.
+
+- Coaches can get detailed feedback from AI about the game.
+
+- Based on performance, AI will suggest sets of training for Overall Team improvement
 
 <br><br>
 <!-- Tech stack -->
