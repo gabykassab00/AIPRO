@@ -9,21 +9,21 @@
 
 
 ### User Stories
-Players:
+Players
 
-- Players can check individual player performance.
+- As a player,I want to check individual player performance, so that I can understand my strengths and weaknesses.
 
-- Players can receive detailed feedback from AI about the game.
+- As a player,I want to receive detailed feedback from AI about the game,so that I can learn from my mistakes and improve my gameplay.
 
-- Based on performance, AI will provide personalized training sets for improvement.
+- As a player,I want to receive personalized training sets from AI based on my performance,so that I can effectively target areas for improvement.
 
-Coaches:
+Coaches
 
-- Coaches can check overall Team performance.
+- As a coach,I want to check overall team performance,so that I can assess the team's strengths and weaknesses.
 
-- Coaches can get detailed feedback from AI about the game.
+- As a coach,I want to get detailed feedback from AI about the game, so that I can identify areas for improvement for the team as a whole.
 
-- Based on performance, AI will suggest sets of training for Overall Team improvement
+- As a coach,I want to receive AI-suggested sets of training for overall team improvement,so that I can effectively plan and conduct training sessions to address team needs.
 
 <br><br>
 <!-- Tech stack -->
