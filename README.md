@@ -9,7 +9,7 @@
 
 
 ### User Stories
-Players
+#### Players
 
 - As a player,I want to check individual player performance, so that I can understand my strengths and weaknesses.
 
@@ -17,7 +17,7 @@ Players
 
 - As a player,I want to receive personalized training sets from AI based on my performance,so that I can effectively target areas for improvement.
 
-Coaches
+#### Coaches
 
 - As a coach,I want to check overall team performance,so that I can assess the team's strengths and weaknesses.
 
