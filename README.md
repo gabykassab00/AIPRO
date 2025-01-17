@@ -62,3 +62,24 @@
 
 
 <br><br>
+
+<!-- Implementation -->
+<img src="./readme/Readme Template Assets/title6.svg"/>
+
+
+### Admin Screens (Web)
+| Login screen  | Register screen |  Landing screen |
+| ---| ---| ---|
+| ![Landing](./readme/demo/login.png) | ![fsdaf](./readme/demo/register.png) | ![fsdaf](./readme/demo/1440x1024.png) |
+| Home screen  | Workflow Screen  | Updates Screen  |
+| ![Landing](./readme/demo/home.png) | ![fsdaf](./readme/demo/workflow.png) | ![fsdaf](./readme/demo/update.png) |
+| Clients screen  | Feedback Screen  | Footer Screen  |
+| ![Landing](./readme/demo/clients.png) | ![fsdaf](./readme/demo/feedback.png) | ![fsdaf](./readme/demo/footer.png) |
+| Upload screen  | Character Screen  | Player Screen  |
+| ![Landing](./readme/demo/upload.png) | ![fsdaf](./readme/demo/character.png) | ![fsdaf](./readme/demo/player.png) |
+| Player Stats screen  | Coach Stats Screen  | Analyzer Screen  |
+| ![Landing](./readme/demo/playerstats.png) | ![fsdaf](./readme/demo/coachstats.png) | ![fsdaf](./readme/demo/analyzer.png) |
+| Program screen  | Saving Stats Screen  | Saved Stats Screen  |
+| ![Landing](./readme/demo/program.png) | ![fsdaf](./readme/demo/savestats.png) | ![fsdaf](./readme/demo/saved.png) |
+<br><br>
+
