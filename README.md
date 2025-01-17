@@ -48,9 +48,9 @@
 
 
 ### Mockups
-| Home screen  | Menu Screen | Order Screen |
-| ---| ---| ---|
-| ![Landing](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) | ![fsdaf](./readme/demo/1440x1024.png) |
+| Home screen  | Menu Screen |
+| ---| ---|
+| ![Landing](./readme/demo/home.png) | ![fsdaf](./readme/demo/welcome.png) 
 
 <br><br>
 <!-- Database Design -->
