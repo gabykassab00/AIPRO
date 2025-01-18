@@ -73,7 +73,7 @@
 | -----------------| -----------------|
 |![Landing](/readme/gif/before.gif)|![Login/Signup](/readme/gif/after.gif)|
 
-> These are screenshots from the real app.
+> These are screenshots from the real Website.
 
 | Login screen  | Register screen |  Home screen |
 | ---| ---| ---|
