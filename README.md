@@ -68,6 +68,13 @@
 
 
 ### Admin Screens (Web)
+
+| OnBoarding  | Analyzed Game  | 
+| -----------------| -----------------|
+|![Landing](/readme/gifs/onBoardingGif.gif)|![Login/Signup](/readme/gif/after.gif)|
+
+> These are screenshots from the real app.
+
 | Login screen  | Register screen |  Home screen |
 | ---| ---| ---|
 | ![Landing](./readme/demo/login.png) | ![fsdaf](./readme/demo/register.png) | ![fsdaf](./readme/demo/home.png) |
