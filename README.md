@@ -48,9 +48,9 @@
 
 
 ### Mockups
-| Home screen  | Menu Screen |
+| Result screen  | Menu Screen |
 | ---| ---|
-| ![Landing](./readme/demo/home.png) | ![fsdaf](./readme/demo/welcome.png) 
+| ![Landing](./readme/demo/Desktop.png) | ![fsdaf](./readme/demo/welcome.png) 
 
 <br><br>
 <!-- Database Design -->
@@ -68,18 +68,19 @@
 
 
 ### Admin Screens (Web)
-| Login screen  | Register screen |  Landing screen |
+| Login screen  | Register screen |  Home screen |
 | ---| ---| ---|
-| ![Landing](./readme/demo/login.png) | ![fsdaf](./readme/demo/register.png) | ![fsdaf](./readme/demo/1440x1024.png) |
-| Home screen  | Workflow Screen  | Updates Screen  |
-| ![Landing](./readme/demo/home.png) | ![fsdaf](./readme/demo/workflow.png) | ![fsdaf](./readme/demo/update.png) |
-| Clients screen  | Feedback Screen  | Footer Screen  |
-| ![Landing](./readme/demo/clients.png) | ![fsdaf](./readme/demo/feedback.png) | ![fsdaf](./readme/demo/footer.png) |
-| Upload screen  | Character Screen  | Player Screen  |
-| ![Landing](./readme/demo/upload.png) | ![fsdaf](./readme/demo/character.png) | ![fsdaf](./readme/demo/player.png) |
+| ![Landing](./readme/demo/login.png) | ![fsdaf](./readme/demo/register.png) | ![fsdaf](./readme/demo/home.png) |
+| Workflow screen  | Updates Screen  | Clients Screen  |
+| ![Landing](./readme/demo/workflow.png) | ![fsdaf](./readme/demo/update.png) | ![fsdaf](./readme/demo/clients.png) |
+| Feedback screen  | Footer Screen  | Upload Screen  |
+| ![Landing](./readme/demo/feedback.png) | ![fsdaf](./readme/demo/footer.png) | ![fsdaf](./readme/demo/upload.png) |
+| Character screen  | Player Screen  | Team Screen  |
+| ![Landing](./readme/demo/character.png) | ![fsdaf](./readme/demo/player.png) | ![fsdaf](./readme/demo/team.png) |
 | Player Stats screen  | Coach Stats Screen  | Analyzer Screen  |
 | ![Landing](./readme/demo/playerstats.png) | ![fsdaf](./readme/demo/coachstats.png) | ![fsdaf](./readme/demo/analyzer.png) |
 | Program screen  | Saving Stats Screen  | Saved Stats Screen  |
 | ![Landing](./readme/demo/program.png) | ![fsdaf](./readme/demo/savestats.png) | ![fsdaf](./readme/demo/saved.png) |
+
 <br><br>
 
