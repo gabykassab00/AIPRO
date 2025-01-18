@@ -69,9 +69,9 @@
 
 ### Admin Screens (Web)
 
-| OnBoarding  | Analyzed Game  | 
+| Normal Game  | Analyzed Game  | 
 | -----------------| -----------------|
-|![Landing](/readme/gifs/onBoardingGif.gif)|![Login/Signup](/readme/gif/after.gif)|
+|![Landing](/readme/gif/before.gif)|![Login/Signup](/readme/gif/after.gif)|
 
 > These are screenshots from the real app.
 
