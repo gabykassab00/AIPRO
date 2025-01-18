@@ -108,15 +108,15 @@ _Below is an example of how you can instruct your audience on installing and set
    ```sh
    npm install
    ```
-3. Run Next.js app`
+3. Run Next.js app
    ```js
    npm run dev ;
    ```
-4. Install Django`
+4. Install Django
    ```js
    pip install django ;
    ```
-5. Run Django`
+5. Run Django
    ```js
    python manage.py runserver ;
    ```
