@@ -86,8 +86,8 @@
 | ![Landing](./readme/demo/character.png) | ![fsdaf](./readme/demo/player.png) | ![fsdaf](./readme/demo/team.png) |
 | Player Stats screen  | Coach Stats Screen  | Analyzer Screen  |
 | ![Landing](./readme/demo/playerstats.png) | ![fsdaf](./readme/demo/coachstats.png) | ![fsdaf](./readme/demo/analyzer.png) |
-| Program screen  | Saving Stats Screen  | Saved Stats Screen  |
-| ![Landing](./readme/demo/program.png) | ![fsdaf](./readme/demo/savestats.png) | ![fsdaf](./readme/demo/saved.png) |
+| Program screen  | Video Screen  | Saved Stats Screen  |
+| ![Landing](./readme/demo/program.png) | ![fsdaf](./readme/demo/video.png) | ![fsdaf](./readme/demo/saved.png) |
 
 <br><br>
 <img src="./readme/Readme Template Assets/title10.svg" id="installation"/>
