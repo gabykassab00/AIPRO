@@ -69,12 +69,13 @@
 
 ### Admin Screens (Web)
 
-| Normal Game  | Upload Game  | 
-| -----------------| -----------------|
-|![Landing](/readme/gif/before.gif)|![Login/Signup](/readme/gif/uploading.gif)|
-| Analyzed Game  | Game Stats | 
-| -----------------| -----------------|
-|![Landing](/readme/gif/after.gif)|![Login/Signup](/readme/gif/statsvideo.gif)|
+| Normal Game      | Upload Game      | 
+| ----------------- | ---------------- |
+| ![Landing](/readme/gif/before.gif)  | ![Login/Signup](/readme/gif/uploading.gif) |
+| Analyzed Game    | Game Stats       | 
+| ----------------- | ---------------- |
+| ![Landing](/readme/gif/after.gif)   | ![Login/Signup](/readme/gif/statsvideo.gif) |
+
 
 > These are screenshots from the real Website.
 
