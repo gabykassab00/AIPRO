@@ -48,9 +48,9 @@
 
 
 ### Mockups
-| Home screen  | Login Screen | Upload Screen |
-| ---| ---| ---|
-| ![Landing](./readme/demo/herofigma.png) | ![fsdaf](./readme/demo/loginfigma.png) | ![fsdaf](./readme/demo/uploadfigma.png) |
+| Home screen  | Workflow Screen 
+| ---| ---|
+| ![Landing](./readme/demo/herofigma.png) | ![fsdaf](./readme/demo/workflw.png) | 
 
 <br><br>
 <!-- Database Design -->
