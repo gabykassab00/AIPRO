@@ -1,7 +1,7 @@
 
 [submodule "frontend-next"]
 	path = new-frontend-path
-	url = https://github.com/gabykassab00/next.js/tree/master
+	url = https://github.com/gabykassab00/next.js/tree
 [submodule "backend-django"]
 	path = backend-django
 	url = https://github.com/gabykassab00/django
