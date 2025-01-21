@@ -93,6 +93,17 @@
 | ![Landing](./readme/demo/program.png) | ![fsdaf](./readme/demo/video.png) | ![fsdaf](./readme/demo/saved.png) |
 
 <br><br>
+<img src="./readme/Readme Template Assets/title7.svg" id="installation"/>
+
+### Mastering AI Interaction: Unveiling the Power of Prompt Engineering:
+
+- This project leverages advanced prompt engineering techniques to optimize interactions with natural language processing models. The platform is powered by OpenAI's GPT-4, delivering personalized and contextually accurate feedback based on gameplay-specific data and AI-driven insights to help players and coaches improve their performance.
+
+- To analyze uploaded gameplay clips, the platform integrates several advanced models and techniques. [YOLO](https://pjreddie.com/darknet/yolo/) is used as the AI object detection model to accurately track players and the ball throughout the game. [K-Means-Clustering](https://scikit-learn.org/1.5/modules/generated/sklearn.cluster.KMeans.html) is applied for pixel segmentation and clustering, enabling the identification of t-shirt colors to differentiate players and teams effectively. [Optical-Flow](https://www.mathworks.com/discovery/optical-flow.html#:~:text=What%20Is%20Optical%20Flow%3F,of%20objects%20in%20the%20video.) measures camera movement, ensuring stable and accurate gameplay analysis. Additionally, Perspective Transformation is utilized to adjust for field geometry and depth, providing precise positional data and an accurate representation of scene perspective. To further enhance the analysis, the platform calculates player speed and distance using Speed and Distance Calculation techniques, providing essential metrics for performance evaluation.
+
+![Promts](./readme/demo/prompt.png)
+
+<br><br>
 <img src="./readme/Readme Template Assets/title10.svg" id="installation"/>
 
 
